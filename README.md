@@ -2,7 +2,7 @@
 
 An analog **guitar distortion pedal** designed and simulated using LTSpice and Falstad.
 This project demonstrates audio signal conditioning, op-amp gain stages, and diode-based hard clipping for creating a warm, saturated distortion effect.
-
+the falstad text file can be directly imported to the website and bring the distortion to life.
 ---
 
 ## ⚙️ Overview
